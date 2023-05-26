@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "utkarsh",
+      "email": "utkarsh123@gmail.com",
+      "pass": "utkarsh@123"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "utkarsh",
+      "title": "Tandoori Chicken",
+      "image": "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "",
+      "category": "",
+      "ingredients": [
+        "Chicken",
+        "red-chille powder",
+        "Spanich",
+        "3 tablespoons vegetable oil",
+        "1 teaspoon cayenne",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon cayenne",
+        "1 tablespoon garam masala",
+        "4 garlic cloves, minced",
+        "2 tablespoons minced fresh ginger"
+      ],
+      "Instruction": "The dish is quite spicy, mango chutney helps cool but this is still really hot! It leaves an afterburn on the tongue that doesn’t disappear right away. The tandoori chicken is noticeably aromatic when cooking, the house smelled like tandoori chicken for about a day and a half after cooking this."
+    }
+  ]
+}
